@@ -12,4 +12,4 @@ quick and easy to open a new browser window Googling for
 
     sublime text 3 $SEARCH_TERM
 
-The default keymapping on all three platforms is `ctrl-alt-s'.
+The default keymapping on all three platforms is `ctrl-alt-s`.
